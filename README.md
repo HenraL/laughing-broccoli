@@ -10,3 +10,8 @@
 [![gitter chat](https://img.shields.io/gitter/room/mzabriskie/axios.svg?style=flat-square)](https://gitter.im/mzabriskie/axios)
 [![code helpers](https://www.codetriage.com/axios/axios/badges/users.svg)](https://www.codetriage.com/axios/axios)
 [![Known Vulnerabilities](https://snyk.io/test/npm/axios/badge.svg)](https://snyk.io/test/npm/axios)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HenraL&theme=blue-green)
+![GitHub Contributors Image](https://contrib.rocks/image?repo=Hanra-s-work/space-track)
+![Profile View Counter](https://komarev.com/ghpvc/?username=HenraL)
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
